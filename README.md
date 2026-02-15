@@ -18,3 +18,14 @@ AI-Powered Receipt Analyzer is an end-to-end system that extracts information fr
 - 🌐 Interactive Streamlit web app
 
 ---
+---
+
+## 🛠️ Tech Stack
+
+- **Programming Language:** Python  
+- **Libraries & Tools:** OpenCV, Pillow, pytesseract, pandas, numpy, matplotlib, Streamlit  
+- **LLM Integration:** OpenAI GPT-4, Google Gemini (configurable via API keys)
+
+---
+
+## 📂 Project Structure
